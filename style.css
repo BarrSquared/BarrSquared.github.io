@@ -12,12 +12,12 @@ background-image: -ms-linear-gradient(top, #303030 0%, #282828 50%, #282828 100%
   border-style: double;
   padding-left: 10px;
   padding-right: 10px;
-  background-color:#b1200f;
-  color: #e5db82;
+  background-color:#00507d;
+  color: #d3fad3;
 }
 
 h1 {
-  color: #e5db82;
+  color: #d3fad3;
   font-size: 24px;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -25,16 +25,18 @@ h2 {
   padding-left: 10px;
   padding-right: 10px;
   border-style: hidden;
-  background-color: #b1200f;
-  color: #e5db82;
+  background-color: #00507d;
+  color: #acf5a8;
   font-weight: bold;
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
 }
 h3 {
+  border-top: solid;
+  border-bottom: solid;
   font-size: 14px;
   font-weight: bold;
-  color: #bb6622;
+  color: #d3fad3;
   font-family: Arial, Helvetica, sans-serif;
 }
 h4 {
@@ -44,18 +46,18 @@ h4 {
 }
 h5 {
   font-size: 14px;
-  color: #768766;
+  color: #0096c8;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
   font-size: 14px;
-  color: #768766;
+  color: #0096c8;
   font-family: Arial, Helvetica, sans-serif;
 }
 ul {
   font-size: 14px;
-  color: #768766;
+  color:  #0096c8;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -73,7 +75,7 @@ img {
   color: white;
   padding-left: 10px;
   padding-right: 10px;
-  background-color:#b1200f
+  background-color:#00507d
 }
 
 
