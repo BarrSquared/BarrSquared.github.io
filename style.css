@@ -13,6 +13,9 @@ background-image: -ms-linear-gradient(top, #fcb798 0%, #fedf9c 50%, #fedf9c 100%
 }
 
 .header {
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  padding-left: 10px;
   background-color:#710162;
   color: #ffffd9;
   font-family: Garamond, Arial, sans-serif;
