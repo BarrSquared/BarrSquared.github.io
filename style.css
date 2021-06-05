@@ -8,12 +8,24 @@ background-image: -ms-linear-gradient(top, #303030 0%, #282828 50%, #282828 100%
   margin: 10% 20%;
 }
 
+.header {
+  border-style: double;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color:#b1200f;
+  color: #e5db82;
+}
+
 h1 {
-  color: #b1200f;
+  color: #e5db82;
   font-size: 24px;
   font-family: Arial, Helvetica, sans-serif;
 }
 h2 {
+  padding-left: 10px;
+  padding-right: 10px;
+  border-style: hidden;
+  background-color: #b1200f;
   color: #e5db82;
   font-weight: bold;
   font-size: 18px;
