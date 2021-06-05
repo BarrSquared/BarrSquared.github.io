@@ -23,21 +23,19 @@ h1 {
 }
 h2 {
   padding-left: 10px;
-  padding-right: 10px;
-  border-style: hidden;
+  border-top: solid;
+  border-bottom: solid;
   background-color: #00507d;
-  color: #acf5a8;
+  color: #d3fad3;
   font-weight: bold;
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
 }
 h3 {
-  padding-left: 10px;
   border-top: solid;
-  border-bottom: solid;
   font-size: 14px;
   font-weight: bold;
-  color: #d3fad3;
+  color: #acf5a8;
   font-family: Arial, Helvetica, sans-serif;
 }
 h4 {
@@ -78,3 +76,7 @@ img {
   padding-right: 10px;
   background-color:#00507d
 }
+
+
+
+
