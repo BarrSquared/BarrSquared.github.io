@@ -21,16 +21,17 @@ h1 {
   font-size: 24px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 h2 {
   padding-left: 10px;
-  border-top: solid;
-  border-bottom: solid;
+
   background-color: #00507d;
   color: #d3fad3;
   font-weight: bold;
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 h3 {
   border-top: solid;
   font-size: 14px;
@@ -38,11 +39,13 @@ h3 {
   color: #acf5a8;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 h4 {
   font-size: 14px;
   color: #e5db82;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 h5 {
   font-size: 14px;
   color: #0096c8;
